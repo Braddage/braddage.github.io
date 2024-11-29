@@ -1,0 +1,35 @@
+.logo-menu-container {
+  width: 100vw;
+  display: flex;
+  position: fixed;
+  top: 0;
+  margin-left: 30px;
+  flex-direction: column;
+}
+
+.logo-image {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  cursor: pointer;
+  border-radius: 50%;
+}
+
+.logo-list {
+  margin-top: 15px;
+  margin-left: 10px;
+  display: flex;
+  gap: 15px;
+  flex-direction: col;
+}
+
+.logo-icon {
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+  transition: transform 0.3s ease-in-out;
+}
+
+.logo-icon:hover {
+  transform: scale(1.1);
+}
