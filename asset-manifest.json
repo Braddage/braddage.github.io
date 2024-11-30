@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7fc418e0.css",
+    "main.js": "/static/js/main.d4c18e0c.js",
+    "static/js/453.534db5b8.chunk.js": "/static/js/453.534db5b8.chunk.js",
+    "static/media/graduation.jpg": "/static/media/graduation.6cec88c8da33633f8f04.jpg",
+    "static/media/headshot.jpg": "/static/media/headshot.5b71f49f03b217aa046d.jpg",
+    "static/media/gradheadshot.jpg": "/static/media/gradheadshot.c69155ca23fcc82bc85b.jpg",
+    "index.html": "/index.html",
+    "main.7fc418e0.css.map": "/static/css/main.7fc418e0.css.map",
+    "main.d4c18e0c.js.map": "/static/js/main.d4c18e0c.js.map",
+    "453.534db5b8.chunk.js.map": "/static/js/453.534db5b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fc418e0.css",
+    "static/js/main.d4c18e0c.js"
+  ]
+}
